@@ -75,3 +75,7 @@ Intermediate/*
 DerivedDataCache/*
 Content/Assets/
 Pinball/Intermediate/
+Content/Blueprint/
+Content/Material/
+Content/Mesh/
+Content/Texture/
